@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhodyds/) 
 
-**I'm a FullStack Developer learning how to code better everyday.**
+**I'm an electrical engineering student and a FullStack Developer learning how to code better everyday.**
 
 ⏱ Currently learning React.js, Next.js, Node.js, Typescript and several other tools.
 
