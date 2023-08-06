@@ -19,7 +19,7 @@
 <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="center" alt="Django icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> </a>
 <a href="https://www.selenium.dev/" target="_blank"> <img align="center" alt="Selenium icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"> </a>
-<a href="https://appium.io/docs/en/2.0/" target="_blank"> <img align="center" alt="Appium icon" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27036%2Fappium&psig=AOvVaw1htR-CKRJ1zcAIb_JcyoqX&ust=1691420442960000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKir_6emyIADFQAAAAAdAAAAABAE"> </a>
+<a href="https://appium.io/docs/en/2.0/" target="_blank"> <img align="center" alt="Appium icon" height="30" width="40" src="https://iconduck.com/icons/27036/appium"> </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
@@ -32,7 +32,5 @@
 
 <a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
 <a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </a>
-
-
 <a href="https://bitbucket.org/" target="_blank"> <img align="center" alt="Gitlab icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"> </a>
-<a href="https://www.atlassian.com/br/software/jira" target="_blank"> <img align="center" alt="Jira icon" height="30" width="40" 
+
