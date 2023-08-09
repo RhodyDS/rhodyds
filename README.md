@@ -8,6 +8,9 @@
 
 🧶 I have been programming as a hobby since 2020, but now I am completely focused.
 
+conheça meu projeto de **marketing Digital** : <a href="https://www.instagram.com/rengagemkt" target="_blank">Rengage</a>
+por trás dele tem um sistema de **automação inteligente** construindo em Django e outras ferramentas que me proporciona a capacidade de entregar a promessa da Rengage.
+
 #### Skills
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
