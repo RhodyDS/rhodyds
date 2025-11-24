@@ -1,39 +1,90 @@
-<h1 align="left">Hey, I'm Rodrigo! 🤙</h1>
+<h1 align="center">Hey, I'm Rodrigo! 🚀</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-373737?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhodyds/) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhodyds/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-**I'm an electrical engineering student and a FullStack Developer learning how to code better everyday.**
+<p align="center">
+  <b>Fullstack Software Engineer | Mobile Specialist (Flutter) | Electrical Engineering Student @ UFPI</b>
+</p>
 
-⏱ Currently learning React.js, Next.js, Node.js, Typescript and several other tools.
+<br>
 
-🧶 I have been programming as a hobby since 2020, but now I am completely focused.
+### 👨‍💻 About Me
 
-Conheça meu projeto de **marketing Digital** : <a href="https://www.instagram.com/rengagemkt" target="_blank">Rengage</a>
-por trás dele tem um sistema de **automação inteligente** construindo em Django e outras ferramentas que me proporciona a capacidade de entregar a promessa da Rengage.
+I am a **Software Engineer** with over **5 years of experience**, currently bridging the gap between Electrical Engineering logic and high-level software architecture. 
 
-#### Skills
+My journey started with **Electrical Engineering**, where I found my passion for solving complex problems through code. Since then, I've worked on everything from refactoring legacy code in fast-paced startups to building scalable mobile applications from scratch.
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
-<a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="Typescript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
-<a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
-<a href="https://nextjs.org/" target="_blank"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> </a>
-<a href="https://vuejs.org/" target="_blank"> <img align="center" alt="Vue icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> </a>
+*   🔭 **Currently working on:** Advanced Mobile Architectures with **Flutter** (Riverpod/Clean Arch) and Python Automation.
+*   🎓 **Academic:** Electrical Engineering Undergraduate at **UFPI** (60% completed).
+*   🧠 **Mindset:** I combine the analytical rigor of engineering with the creativity of development.
+*   📚 **Learning:** Continually deepening knowledge in System Design and Mobile Performance.
 
-<a href="https://www.python.org/" target="_blank"> <img align="center" alt="Python icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img align="center" alt="Django icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> </a>
-<a href="https://www.selenium.dev/" target="_blank"> <img align="center" alt="Selenium icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"> </a>
-<a href="https://appium.io/docs/en/2.0/" target="_blank"> <img align="center" alt="Appium icon" height="30" width="40" src="https://static-00.iconduck.com/assets.00/appium-icon-511x512-rm65wi9n.png"> </a>
+---
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> </a>
+### 🛠️ Tech Stack
 
+<div align="center">
 
-<a href="https://nodejs.org/en/" target="_blank"> <img align="center" alt="NodeJS icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img align="center" alt="MongoDB icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="center" alt="MySQL icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> </a>
+**Mobile & Frontend**<br>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img alt="Nextjs" src="https://img.shields.io/badge/next%20js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 
+<br>**Backend & Automation**<br>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+<img alt="Appium" src="https://img.shields.io/badge/Appium-41c4ff?style=flat-square&logo=appium&logoColor=white" />
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 
-<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="Git icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> </a>
-<a href="https://github.com/" target="_blank"> <img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> </a>
+<br>**Database & Cloud**<br>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 
+</div>
 
+---
+
+### 🚀 Featured Projects (Portfolio)
+
+Some of my best work is in private repositories (startups/proprietary). Here is a breakdown of what I've been building:
+
+#### 📱 **NeuroTodo** (Mobile - Flutter)
+> *Solving routine management for neurodivergent minds.*
+A specialized habit tracker designed for people with ASD (Autism Spectrum Disorder). 
+*   **Tech:** Flutter, Riverpod, Clean Architecture.
+*   **Challenge:** Migrated complex state management providers to Riverpod to ensure scalability and testability. Focus on accessible UX/UI.
+
+#### 📊 **VendiFlux** (Mobile - Flutter)
+> *From paper to data-driven management.*
+An app that digitized the flow management of a retail store, replacing manual paper logs with real-time dashboards.
+*   **Tech:** Flutter, Firebase (Auth, Firestore, Analytics), Serverless.
+*   **Challenge:** Implemented a full cost-optimization strategy (FinOps) by migrating from a dedicated backend to a serverless architecture.
+
+#### 🤖 **Rengagenator** (Fullstack - Python)
+> *Distributed Social Automation System.*
+The engineering core behind **[Rengage Marketing](https://www.instagram.com/rengagemkt)**. A system that orchestrates social media interactions to deliver engagement growth.
+*   **Tech:** Python, Django, Appium, WebSockets, Redis.
+*   **Challenge:** Built a distributed event-driven architecture to handle real-time notifications and automated device farms.
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
+</div>
+
+<p align="center">
+  <i>Let's build something amazing together! 🤙</i>
+</p>
